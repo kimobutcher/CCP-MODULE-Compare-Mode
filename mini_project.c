@@ -1,3 +1,3 @@
-void main() {
+void CCP-MODULE-Compare-Mode() {
 
 }
